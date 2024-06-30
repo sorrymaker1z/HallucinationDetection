@@ -1,0 +1,7 @@
+acc: 0.8249475890985325
+Non_fact_auc_precision_recall: 0.865419529780888
+fact_auc_precision_recall: 0.6157719746256731
+avg_sentence_search_time: 4.909853249475891
+pearson: 0.7897791963433753
+Spearman: 0.7336794796636544
+hypothesis_avg_search_time: 3.1331103678929764
